@@ -1,0 +1,12 @@
+body {
+    background-color: #cc50a7;
+    text-align: center;
+}
+p { font-family: Comic Sans MS;
+text-align: left;
+max-width: 1000px;
+}
+img {
+    padding-left: 0px;
+    padding-right: 10px;
+}

@@ -1,0 +1,20 @@
+body {
+    background-color: #32a852;
+    text-align: center;
+}
+td {
+    min-width: 100px;
+    min-height: 200px;
+    vertical-align: top;
+    line-height: 1.4em;
+}
+td.description {
+min-width: 100px;
+max-width: 1000px;
+text-align: left;
+padding: 5px;
+margin: 0px;
+}
+img {
+    max-width: 400px;
+}

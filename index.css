@@ -1,0 +1,16 @@
+body {
+    background-color: hsl(136, 54%, 43%);
+    text-align: center;
+}
+p { 
+    font-family: Comic Sans MS;
+}
+video { 
+    background-color: black;
+}
+footer {
+    text-align: left;
+    font-family: Comic Sans MS;
+    font-size: 10pt;
+    padding-top: 10px;
+}
